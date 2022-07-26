@@ -1,7 +1,7 @@
 ## Hello! 👋
 
 
-🙋‍♀️ This is an open laboratory for complex systems data science.
+This is an open laboratory for complex systems data science.
 
 My name is Soumya Banerjee. Please get in touch if you would like to be involved or collaborate.
 
@@ -9,6 +9,9 @@ My website is here
 
 https://sites.google.com/site/neelsoumya/Home
 
+Email me at 
+
+sb2333 AT cam dot ac dot uk
 
 <!--
 
