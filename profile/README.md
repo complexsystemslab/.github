@@ -13,6 +13,8 @@ Email me at
 
 sb2333 AT cam dot ac dot uk
 
+neel.soumya@gmail.com
+
 <!--
 
 **Here are some ideas to get you started:**
