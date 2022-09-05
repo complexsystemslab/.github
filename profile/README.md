@@ -15,6 +15,16 @@ sb2333 AT cam dot ac dot uk
 
 neel.soumya@gmail.com
 
+Here is a short biography:
+
+Soumya analyses complex problems and implement new statistical and machine learning techniques for deriving insights from large amounts of data. He works closely with people from other domains, especially experimentalists and clinicians.
+
+Soumya worked in industry before completing a PhD in applying computational techniques to interdisciplinary topics. He has worked closely with domain experts in finance, healthcare, immunology, virology, and cell biology. He collaborates with clinicians and patients on using patient and public involvement to build trust in AI algorithms. He also builds explainable AI techniques.
+
+Soumya’s research uses data science for social good and answer questions about complex systems. Complex systems are all around us, from social networks to transportation systems, cities, economies and financial markets. He is also very passionate about outreach, science communication.
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
