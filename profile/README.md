@@ -3,7 +3,7 @@
 
 This is an open laboratory for complex systems data science.
 
-My name is Soumya Banerjee. Please get in touch if you would like to be involved or collaborate.
+My name is Soumya Banerjee and I am a senior research fellow at the University of Cambridge. Please get in touch if you would like to be involved or collaborate.
 
 My website is here
 
