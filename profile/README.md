@@ -25,6 +25,8 @@ Soumya worked in industry before completing a PhD in applying computational tech
 
 Soumya’s research uses data science for social good and answer questions about complex systems. Complex systems are all around us, from social networks to transportation systems, cities, economies and financial markets. He is also very passionate about outreach, science communication.
 
+![](dalle_3rdrender_agi_complexsystems.png)
+
 
 
 <!--
